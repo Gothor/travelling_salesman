@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    background-color: #02172e;
+}
+
+canvas {
+    display: block;
+    margin: auto;
+    background-color: #02172e;
+    background-image: url('../img/map.png');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
+}
